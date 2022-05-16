@@ -1,0 +1,39 @@
+La corriente directa (CD) o corriente continua (CC) es aquella cuyas cargas eléctricas o electrones fluyen siempre en el mismo sentido en un circuito eléctrico cerrado, moviéndose del polo negativo hacia el polo positivo de una fuente de fuerza electromotriz (FEM). En otras palabras, la corriente directa es un flujo eléctrico que se mantiene constante y no hay cambios en el voltaje.
+
+Si bien se consideró que la corriente directa no era tan eficiente como la corriente alterna, la realidad es que hoy en día este tipo de corriente tiene aplicaciones prácticas, especialmente en el mundo de la electrónica.
+
+Origen de la corriente continua
+Las primeras fuentes de corriente continua fueron las fuentes de corriente química: celdas galvánicas, luego se inventaron las baterías. La polaridad de las fuentes químicas actuales no puede cambiar espontáneamente.
+
+La corriente continua fue descubierta en 1800 por el físico italiano Nicola Volta, quien desarrolló la primera pila voltaica.
+
+Artículo de interés: Rigidez dieléctrica: el límite entre el aislamiento y la conducción
+
+Después de que el inventor francés Hippolyte Pixii desarrolló su generador de corriente alterna en 1832, y posteriormente le creara un conmutador que hacía las veces de interruptor, se obtuvo corriente continua. Con estos avances tecnológicos comenzó la generación de electricidad en centrales eléctricas y posteriormente, el uso doméstico de las bombillas incandescentes basadas en corriente continua, de Thomas Edison.
+
+Sin embargo, después de lograr la manipulación de los voltajes de la corriente alterna con el uso de los transformadores, la corriente continua se volvió impráctica.
+
+Fue en 1950 que la corriente directa volvió a considerarse útil con la transmisión de la corriente continua de alta tensión, lo que permitió que fuera una alternativa para los sistemas que requerían corriente alterna.
+
+Hoy en día, se utilizan rectificadores para cambiar la tensión de la corriente continua de los dispositivos que lo ameriten, como los aparatos electrónicos.
+
+Lea también: Materiales eléctricos y su contribución en la eficiencia energética
+
+En el equipo electrónico, la alimentación de la red de corriente alterna, para el uso de fuentes de alimentación de corriente continua. Como regla general, el transformador baja la corriente alterna al valor deseado y luego la rectifica.
+
+En los equipos electrónicos modernos, las fuentes de alimentación de pulso se han generalizado. Las ondas suaves de la tensión de salida se producen debido a la presencia de un elemento integrador que puede acumular energía eléctrica y transmitirla a la carga.
+
+Ventajas de la corriente continua
+Se puede almacenar en forma de baterías, lo que permite tener una fuente de energía a disposición para los dispositivos, aparatos, o máquinas que permitan este tipo de recursos.
+En algunos casos, las baterías pueden ser recargables.
+Su uso es más seguro que el de la corriente alterna, lo que ha permitido desarrollar múltiples soluciones, especialmente con fines domésticos.
+Permite un uso de voltajes más bajos para transmitir electricidad por medio de cables.
+Aplicaciones de la corriente continua
+Automóviles.
+Sistemas de transporte subterráneo y ferrocarriles.
+Telefonía móvil.
+Computadoras (deben alimentarse con corriente alterna, pero internamente esta se transforma en corriente directa).
+Todo dispositivo o aparato que requiera el uso de baterías.
+La corriente continua se utiliza normalmente para aplicaciones donde necesitamos un bajo voltaje, especialmente donde la energía es producida por pilas o por sistemas de energía solar fotovoltaica (células fotovoltaicas), ya que ambos sólo producen corriente continua.
+
+En un circuito con corriente continua, es importante no cambiar la polaridad, a menos que el dispositivo tenga un diodo que lo permita (la mayoría de dispositivos no lo permiten).
