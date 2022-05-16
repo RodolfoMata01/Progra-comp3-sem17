@@ -12,38 +12,38 @@ let write = readLine.createInterface({
 write.question("Que documento desea leer 1:xlsx, 2:cvs , 3:txt: ", (action) => {
     console.log("");
 
-    if (accion == 1) {
+    if (action == 1) {
 
         console.log("");
 
         fs.readFile('./animes.xlsx', 'utf-8', (err, data) => {
             if(err) {
-                console.log('error', err);
+                console.log('error',err);
             }else{
                 console.log(data);
             }
         });
 
-    }else if (accion == 2){
+    }else if (action == 2){
 
         console.log("");
 
         fs.readFile('./list.csv', 'utf-8', (err, data) => {
             if(err) {
-                console.log('error', err);
+                console.log('error',err);
             }else{
                 console.log(data);
             }
         });
 
-    }else if (accion == 3){
+    }else if (action == 3){
 
 
         console.log("");
-        
+
         fs.readFile('./electro.txt', 'utf-8', (err, data) => {
             if(err) {
-                console.log('error', err);
+                console.log('error',err);
             }else{
                 console.log(data);
             }
